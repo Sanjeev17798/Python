@@ -1,4 +1,4 @@
-# This will find the largest filest into current directory 
+# This will find the largest file into current directory 
 import os
 
 largest_file = ""
