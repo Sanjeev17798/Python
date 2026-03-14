@@ -14,4 +14,4 @@ for file in os.listdir():
 print("Largest file:", largest_file)
 print("Size:", largest_size, "bytes")
 
-# agar user sy input dena hai like need to puth path we can just put as on top path=input("")
+# agar user sy input dena hai like need to put path we can just put as on top path=input("")
