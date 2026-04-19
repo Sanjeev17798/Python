@@ -1,4 +1,5 @@
 # Write a Python script to check disk usage of the system and print a warning if usage exceeds 80%.
+
 # Start
 # Define a threshold value (e.g., 80%)
 # Get total, used, and free disk space of the system
