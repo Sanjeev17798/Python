@@ -1,3 +1,29 @@
+# 🔹 Algorithm: Find File and Count Non-Comment Lines
+# Start
+# Take user inputs
+# Input filename from user
+# Input current working directory (cwd)
+# Search for file
+# List all files in the given directory
+# Compare each file name with the input filename
+# If match found → return full file path
+# Else → return None
+# Check if file exists
+# If file path is found → proceed
+# Else → print "File not found" and exit
+# Initialize counter
+# Set line_count = 0
+# Read file and process lines
+# Open the file
+# Loop through each line:
+# Remove extra spaces (strip)
+# If line is empty → skip
+# If line starts with # → skip (comment)
+# Else → increment line_count
+# Display result
+# Print total number of non-comment lines
+# End
+
 import os
 
 # Take filename from user
